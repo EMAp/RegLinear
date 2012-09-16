@@ -1,4 +1,4 @@
 RegLinear
 =========
 
-Repositório com código da Disciplina de Regrassão Linear
+Repositório com código da Disciplina de Regressão Linear
