@@ -1,0 +1,286 @@
+comarca,2012,2011,2010,2009,2008,2007,2006
+RIO DE JANEIRO,1671,7727,13381,12622,8049,6092,4328
+Nova Iguaçu,935,2456,2417,2866,3327,2465,1954
+Campo Grande,297,1071,985,1178,1180,1174,1354
+Nilópolis,275,789,630,833,865,773,809
+São João de Meriti,188,1099,927,1065,1189,725,933
+Santa Cruz,131,1104,845,862,726,634,567
+Duque de Caxias,124,664,555,693,780,581,971
+Queimados,112,407,505,507,375,330,393
+Itaguaí,106,186,170,198,259,213,244
+Guadalupe,105,283,337,546,450,706,531
+Miguel Pereira,92,40,76,54,39,32,37
+Madureira,89,429,409,534,423,565,466
+Olaria,85,308,393,350,340,391,386
+Belford Roxo,84,535,500,619,778,493,443
+Freguesia,84,387,458,374,277,349,353
+Bangu,83,696,621,3,0,1,1
+Barra Mansa,80,521,186,183,239,208,179
+Volta Redonda,79,195,220,209,291,293,670
+Taquara,71,305,532,656,493,393,429
+Penha,70,301,410,351,348,443,445
+Barra da Tijuca,67,321,314,339,180,206,241
+Copacabana,65,136,117,139,99,140,105
+Japeri,61,222,176,137,126,84,99
+Ilha do Governador,53,268,363,400,315,456,414
+Méier,41,233,216,240,267,282,292
+Piraí,40,18,35,13,17,15,18
+Três Rios,38,115,138,178,208,266,271
+Pavuna,32,196,307,295,234,273,300
+Piedade,32,143,250,146,149,213,206
+Catete,30,169,176,178,140,180,177
+Valença,27,85,93,91,98,74,86
+Seropédica,23,60,70,70,133,86,106
+Tijuca,20,127,157,141,108,163,100
+Maracanã,18,80,127,88,60,117,100
+Paracambi,17,138,72,85,100,37,45
+Barra do Piraí,13,61,62,96,110,97,70
+Gávea,12,58,14,2,0,0,0
+Pinheiral,11,26,16,32,28,126,41
+Paraíba do Sul,10,37,42,37,36,287,83
+Vassouras,10,17,25,30,48,51,41
+Mendes,6,26,35,28,40,59,41
+Mesquita,6,14,19,16,13,2,0
+Paty do Alferes,5,26,57,38,36,41,32
+Carmo,5,11,10,9,14,11,13
+Rio das Flores,4,6,5,9,2,3,6
+Cachoeiro de Itapemirim - ES,3,2,1,1,2,0,0
+Vitória - ES,3,2,2,1,2,0,0
+Sapucaia,2,13,12,13,9,10,6
+Maricá,2,6,4,6,1,4,1
+Engenheiro Paulo de Frontin,2,5,12,13,3,0,1
+Niterói,2,8,7,14,10,14,3
+Cabo Frio,2,4,2,6,9,2,1
+Comendador Levy Gasparian,2,4,6,5,0,0,0
+Sabará - MG,2,0,0,0,0,0,0
+Rio Claro,1,15,11,7,8,12,14
+São Gonçalo,1,7,4,5,7,2,3
+Campina Grande - PB,1,2,1,0,0,0,0
+Resende,1,3,1,3,2,2,1
+Magé,1,8,6,13,6,1,4
+Petrópolis,1,3,12,8,4,3,1
+Uberaba - MG,1,0,0,0,0,0,0
+João Pessôa - PB,1,6,7,1,0,1,0
+Teresópolis,1,9,7,6,3,2,2
+Colatina - ES,1,1,0,1,0,0,0
+Nova Friburgo,1,2,1,2,1,1,0
+Teresina - PI,1,0,0,0,0,0,0
+Cidade de Deus,1,2,0,0,0,0,0
+Nova Venécia - ES,1,1,0,0,0,0,0
+Bom Jesus do Itabapoana,1,1,1,0,1,0,1
+Floriano - PI,1,1,0,0,0,0,0
+Santos - SP,1,0,1,1,0,0,0
+São Fidelis,1,1,1,0,1,0,0
+Jaboatão dos Guararapes - PE,1,0,0,0,0,0,0
+Belo Horizonte - MG,1,0,1,3,4,0,0
+Curitiba - PR,1,0,2,0,0,0,0
+Itaquaquecetuba - SP,1,0,0,0,1,0,0
+Mossoró - RN,1,1,0,0,0,0,0
+Parati,1,1,0,0,0,0,0
+Bataguaçu - MS,1,0,0,1,0,0,0
+Barbacena - MG,1,1,0,0,0,0,0
+Ananindeua - PA,1,0,1,0,1,0,0
+Rio Grande - RS,1,0,0,0,0,0,0
+Humaita,0,6,85,72,86,85,46
+Realengo,0,11,434,993,678,627,906
+Ubá - MG,0,0,0,1,1,0,0
+Itaperuna,0,2,2,1,2,0,0
+Goiania - GO,0,2,1,0,2,0,0
+CASEMIRO DE ABREU,0,0,2,2,2,2,0
+Cachoeiras de Macacu,0,1,3,1,1,0,0
+Betim - MG,0,0,0,1,1,1,0
+Gramado - RS,0,0,0,1,0,0,0
+NULL,0,0,0,1,1,1,3
+Ceilândia - DF,0,0,1,0,0,0,0
+Jacarepaguá,0,0,1,0,0,3,2
+Cataguases - MG,0,1,0,1,0,0,0
+Paulo de Frontin,0,0,0,1,4,12,17
+Araruama,0,6,5,1,3,2,2
+Serra - ES,0,2,4,3,4,0,0
+Recreio dos Bandeirantes,0,0,0,25,39,6,4
+Penedo - AL,0,1,0,0,0,0,0
+Angra dos Reis,0,3,2,5,5,0,0
+Vila Velha - ES,0,2,3,2,3,0,0
+Porto Real / Quatis,0,8,7,9,6,7,2
+Porto Ferreira - SP,0,0,0,0,0,1,0
+Itaboraí,0,4,6,6,4,2,1
+Taquaritinga - SP,0,1,0,0,0,0,0
+Itaipava,0,1,0,0,3,0,0
+Afogados - PE,0,0,1,0,0,0,0
+Carapebus-Quissama,0,0,0,0,0,1,0
+Nova Brasilandia - RO,0,0,0,1,0,0,0
+Nova Cruz - RN,0,0,0,1,2,0,0
+União dos Palmares - AL,0,0,0,1,0,0,0
+Mangaratiba,0,2,1,2,4,0,1
+São João Del Rei - MG,0,0,0,0,1,0,0
+Campo Grande - MS,0,0,0,0,1,0,0
+Macaé,0,1,1,2,2,0,1
+Iguaba Grande,0,0,0,2,0,0,0
+Campos dos Goytacazes,0,1,2,6,1,1,0
+São Miguel Paulista - SP,0,0,0,1,0,0,0
+Tacauacá - AC,0,0,1,0,0,0,0
+Vilar dos Teles,0,0,0,0,0,0,0
+Poços de Caldas - MG,0,0,0,1,0,0,0
+São José de Ribamar - MA,0,0,0,1,0,0,0
+Belem - PA,0,1,0,0,1,0,0
+Conceição da Barra - ES,0,0,0,0,1,0,0
+Mamanguape - PB,0,0,1,0,0,0,0
+São Gotardo - MG,0,0,1,0,0,0,0
+São Paulo - SP,0,0,0,0,0,0,0
+Campinas - SP,0,0,0,0,0,0,0
+Bonsucesso,0,0,0,0,0,0,0
+Canoas - RS,0,1,0,0,0,0,0
+São José - SC,0,0,0,0,1,0,0
+Aracruz - ES,0,1,1,1,0,0,0
+Samambaia - DF,0,0,1,1,0,0,0
+Vila Prudente - SP,0,0,1,0,0,0,0
+Caucaia - CE,0,0,0,1,0,0,0
+Rio das Ostras,0,1,2,2,2,2,2
+Antonina do Norte - CE,0,0,1,0,0,0,0
+Engenho Novo,0,0,0,0,0,0,0
+Natal - RN,0,1,0,1,0,0,0
+Camboriú - SC,0,0,1,0,0,0,0
+Santo Ângelo - RS,0,0,0,1,0,0,0
+Porciúncula,0,0,1,1,0,0,0
+Guapimirim,0,5,2,1,1,2,0
+Paulista - PE,0,1,0,1,0,0,0
+Pinheiros - ES,0,1,0,0,1,0,0
+São Pedro d'Aldeia,0,1,0,4,2,0,0
+Vaz Lobo,0,0,0,0,0,0,0
+Porto Seguro - BA,0,0,0,1,0,0,0
+Juazeiro - BA,0,1,0,0,0,0,0
+Alcântara,0,1,1,2,6,0,0
+Pendotiba,0,0,0,3,1,2,1
+Anchieta,0,0,0,0,0,0,0
+Pau dos Ferros - RN,0,0,0,0,1,0,0
+Aimorés - MG,0,0,1,0,0,0,0
+Muriaé - MG,0,2,0,1,0,0,0
+Florianópolis - SC,0,0,0,0,1,0,0
+Miraí - MG,0,0,0,0,1,0,0
+Itabuna - BA,0,0,0,1,0,0,0
+Franco da Rocha - SP,0,0,0,0,1,0,0
+Itaocara - RJ,0,0,1,0,0,0,0
+VIANA,0,0,0,0,1,1,0
+Muqui - ES,0,0,1,0,0,0,0
+Saquarema,0,1,5,1,0,0,0
+Parnaíba,0,0,0,2,2,0,0
+Mantenópolis - ES,0,1,1,0,0,0,0
+Criciúma - SC,0,0,0,3,0,0,0
+São Francisco do Itabapoana,0,0,0,2,1,0,0
+Salvador - BA,0,1,2,3,2,1,1
+Aracajú - SE,0,0,0,1,1,0,0
+Maringá - PR,0,0,0,1,0,0,0
+Mari - PB,0,1,0,0,0,0,0
+São João Batista - SC,0,0,1,0,0,0,0
+Manaus - AM,0,0,5,3,0,0,0
+São Luís - MA,0,1,1,0,1,0,0
+Barreira - BA,0,0,1,0,0,0,0
+Bandeirante - DF,0,1,0,0,0,0,0
+São José dos Pinhais - PR,0,1,0,0,0,0,0
+Duas Barras - RJ,0,0,1,0,0,0,0
+Colorado do Oeste - RO,0,0,0,1,0,0,0
+Anápolis - GO,0,1,0,2,1,0,0
+Ilhéus - BA,0,0,0,1,0,0,0
+Pontes e Lacerda - MT,0,0,0,0,1,0,0
+Ipu - CE,0,0,0,1,0,0,0
+Brasília,0,0,0,3,1,0,0
+Boa Vista - RR,0,0,0,0,2,0,0
+Alagoa Grande - PB,0,0,0,1,1,0,0
+Complexo do Alemão,0,2,0,0,0,0,0
+Suzano - SP,0,0,1,0,0,0,0
+Recife - PE,0,0,1,1,1,0,0
+Armação de Búzios,0,0,0,3,0,0,0
+Unaí - MG,0,1,0,0,0,0,0
+Linhares - ES,0,2,1,1,1,1,0
+Arraial do Cabo,0,1,1,1,0,0,0
+Ubatuba - SP,0,0,0,1,0,0,0
+Cariacica - ES,0,2,0,3,3,0,0
+Conselheiro Lafayete,0,1,0,0,0,0,0
+Guarabira - PB,0,0,2,0,0,0,0
+São Miguel do Oeste - SC,0,0,0,1,0,0,0
+Porto Alegre - RS,0,0,0,1,0,0,0
+Feira de Santana - BA,0,1,2,0,0,0,0
+Sumidouro,0,0,0,1,0,0,0
+Francisco Morato - SP,0,0,0,1,0,0,0
+Conceição de Macabu,0,0,0,1,0,0,0
+Guarapari - ES,0,0,0,1,0,0,0
+Vergueiro - SP,0,0,1,2,0,0,0
+Aparecida - SP,0,0,1,0,0,0,0
+Itatiaia,0,0,0,1,1,1,0
+Marataízes - ES,0,0,1,1,2,0,0
+Caldas Novas - GO,0,0,0,0,1,0,0
+Itajaí - SC,0,1,0,0,0,0,0
+Pouso Alegre - MG,0,0,0,1,0,0,0
+Santo Antônio de Pádua,0,1,0,1,1,0,0
+São Lourenço - MG,0,1,0,1,0,0,0
+Uruguaiana - RS,0,0,0,0,1,0,0
+Americana - SP,0,0,1,0,0,0,0
+Teixeira de Freitas - BA,0,0,0,0,1,0,0
+Guarujá - SP,0,1,0,0,0,0,0
+Fortaleza - CE,0,0,0,1,2,0,0
+Dourados - MS,0,0,0,1,0,0,0
+Lagarto - SE,0,0,1,1,0,0,0
+Uberlândia - MG,0,0,1,1,0,0,0
+São José do Vale do Rio Preto,0,0,0,1,0,0,0
+Mogi Mirim - SP,0,0,0,1,0,0,0
+Cuiabá - MT,0,0,1,0,1,0,0
+Nossa Senhora do Socorro - SE,0,0,1,0,0,0,0
+Ribeirão Pires - SP,0,1,0,0,0,0,0
+Valparaiso de Goias,0,0,0,0,1,0,0
+Taubaté - SP,0,0,1,0,0,0,0
+São Gabriel - RS,0,1,0,0,0,0,0
+Santo Amaro - SP,0,0,2,2,0,0,0
+Lajinha - MG,0,1,0,0,0,0,0
+Martins - RN,0,0,0,0,1,0,0
+Baixo Guandu - ES,0,1,0,0,0,0,0
+Contagem - MG,0,0,0,0,1,0,0
+Sinop - MT,0,0,0,1,0,0,0
+Maceió - AL,0,3,0,1,1,0,0
+Santa Branca - SP,0,0,0,0,0,0,0
+Ribeirão das Neves - MG,0,0,0,0,1,0,0
+Três Marias - MG,0,0,1,0,0,0,0
+Assis Chateaubriand - PR,0,0,0,0,1,0,0
+Caxias do Sul - RS,0,0,0,1,0,0,0
+Santo André - SP,0,0,1,0,0,0,0
+Neópolis - SE,0,0,1,0,0,0,0
+Brumadinho - MG,0,0,0,0,0,1,0
+Gararanhuns - PE,0,1,0,0,0,0,0
+Caruaru - PE,0,2,0,0,0,0,0
+Bento Gonçalves - RS,0,2,0,0,0,0,0
+Sorocaba - SP,0,1,0,0,0,0,0
+Camaçari - BA,0,0,0,1,0,0,0
+Piuma - ES,0,1,0,0,0,0,0
+Divinópolis - MG,0,0,0,0,0,1,0
+Lagoa Santa - MG,0,0,0,1,0,0,0
+Rio Novo do Sul - ES,0,0,0,0,1,0,0
+Manhumirim - MG,0,0,0,1,0,0,0
+Domingos Martins - ES,0,0,0,0,1,0,0
+Rio Bonito,0,0,1,0,0,0,0
+SILVA JARDIM,0,0,0,0,0,1,0
+Eunapolis - BA,0,0,0,1,0,0,0
+Taguatinga - DF,0,1,0,0,0,0,0
+Santana do Livramento - RS,0,0,1,0,0,0,0
+Mondai - SC,0,0,1,0,0,0,0
+Periperi - BA,0,0,0,1,0,0,0
+Açucena - MG,0,1,0,0,0,0,0
+Macapá - AP,0,0,1,0,0,0,0
+Paranavaí - PR,0,0,1,0,0,0,0
+Angicos - RN,0,1,0,0,0,0,0
+Timon - RR,0,0,0,0,1,0,0
+Governador Valadares - MG,0,0,0,0,0,1,0
+Espumoso - RS,0,1,1,0,0,0,0
+Vitória da Conquista - BA,0,1,0,0,0,0,0
+Itamaraju-BA,0,0,1,0,0,0,0
+Ibiporã - PR,0,0,0,0,0,1,0
+Cascavel - PR,0,0,0,0,1,0,0
+Raul Soares - MG,0,1,0,0,0,0,0
+Jerônimo Monteiro - ES,0,1,0,0,0,0,0
+Mauá - SP,0,0,0,0,1,0,0
+Cantagalo,0,1,0,0,0,0,0
+Rio Largo - AL,0,0,1,0,0,0,0
+Minaçu - GO,0,0,0,1,0,0,0
+Ji-Paraná - RO,0,0,0,0,0,1,0
+Pires do Rio - GO,0,0,1,0,0,0,0
+SANTA LUZIA - MG,0,1,0,0,0,0,0
+Petrolina - PE,0,0,0,1,0,0,0
+Cambuci,0,0,0,1,0,0,0
